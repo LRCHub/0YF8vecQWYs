@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "カワキヲアメク",
-  "base_artist": "美波",
-  "createdAt": "2025-12-05T12:44:17.954716Z",
+  "base_track": "カワキヲアメク - Kawakiwoameku",
+  "base_artist": "minami",
+  "createdAt": "2026-03-03T10:21:13.488449Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,78 @@
       "artist": "美波",
       "has_synced": false,
       "path": "select/pl_01_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_02_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_03_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_04_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_05_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_06_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_07_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_08_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_09_カワキヲアメク_美波.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_10_カワキヲアメク_美波.txt"
     }
   ]
 }
